@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+**instalasi dan konfigurasi dasar openssh**
 
 [Link to another page](./another-page.html).
 

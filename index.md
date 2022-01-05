@@ -6,7 +6,9 @@ layout: default
 
 [Link to another page](./another-page.html).
 
-SSH/SECURE SHELL adalah protokol jaringan yang memungkinkan penggunanya mengakses dan mengatur file atau aset data yang ada di komputer secara jarak jauh (remote) dengan aman. SSH juga merujuk pada perangkat yang menggunakan implementasi SSH protokol. Contohnya, Sistem Operasi Linux dan memiliki IP Publik, di dalamnya sudah terpasang fitur SSH secara otomatis.
+SSH/SECURE SHELL adalah protokol jaringan yang memungkinkan penggunanya mengakses dan mengatur file atau aset data yang ada di komputer secara jarak jauh (remote) dengan aman. 
+
+SSH juga merujuk pada perangkat yang menggunakan implementasi SSH protokol. Contohnya, Sistem Operasi Linux dan memiliki IP Publik, di dalamnya sudah terpasang fitur SSH secara otomatis.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 

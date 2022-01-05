@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-# Header 1
-**Instalasi dan konfigurasi dasar openssh di linux**
+#Instalasi dan konfigurasi dasar openssh di linux
+
 
 [Link to another page](./another-page.html).
 
